@@ -1,4 +1,4 @@
-# AMAasfasfafsfasfsdfDDA: Your Personalized Local Restaurant Tracker
+# AMADDA: Your Personalized Local Restaurant Tracker
 
 **AMADDA** is a user-friendly web platform designed to help users pin, track, and manage their favorite local restaurants. The platform provides an intuitive interface for users to share restaurant experiences through personalized diary-like posts and discover posts curated based on real-time weather data.
 
