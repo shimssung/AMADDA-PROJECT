@@ -23,7 +23,7 @@ My contributions focused on **enhancing user experience and ensuring a secure an
 - Ensured **responsive UI** for optimal viewing on different devices.  
 
 🔹 **Key Technologies**  
-✅ React | ✅ Styled-Components | ✅ Material-UI  
+✅ React | ✅ Material-UI  
 
 ---
 
